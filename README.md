@@ -1,3 +1,5 @@
+Fork of the original repository for profile display.
+
 # Blackjack LWJGL Game
 ![Java](https://img.shields.io/badge/Java-21-orange?logo=openjdk)
 ![LWJGL](https://img.shields.io/badge/LWJGL-3-blue?logo=lwjgl)
